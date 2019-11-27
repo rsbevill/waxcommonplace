@@ -1,0 +1,346 @@
+---
+layout: none
+---
+{
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/carlos_carlos001.json",
+  "@type": "sc:Sequence",
+  "canvases": [
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/carlos_carlos001.json",
+      "label": "Page 1",
+      "width": 4032,
+      "height": 3024,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlos_carlos001/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/carlos_carlos001.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlos_carlos001/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlos_carlos001",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 4032,
+            "height": 3024
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/carlos_carlos001.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/carlos_carlos002.json",
+      "label": "Page 2",
+      "width": 4032,
+      "height": 3024,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlos_carlos002/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/carlos_carlos002.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlos_carlos002/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlos_carlos002",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 4032,
+            "height": 3024
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/carlos_carlos002.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/carlos_carlos003.json",
+      "label": "Page 3",
+      "width": 4032,
+      "height": 3024,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlos_carlos003/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/carlos_carlos003.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlos_carlos003/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlos_carlos003",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 4032,
+            "height": 3024
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/carlos_carlos003.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/carlos_carlos004.json",
+      "label": "Page 4",
+      "width": 4032,
+      "height": 3024,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlos_carlos004/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/carlos_carlos004.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlos_carlos004/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlos_carlos004",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 4032,
+            "height": 3024
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/carlos_carlos004.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/carlos_carlos005.json",
+      "label": "Page 5",
+      "width": 4032,
+      "height": 3024,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlos_carlos005/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/carlos_carlos005.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlos_carlos005/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlos_carlos005",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 4032,
+            "height": 3024
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/carlos_carlos005.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/carlos_carlos006.json",
+      "label": "Page 6",
+      "width": 4032,
+      "height": 3024,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlos_carlos006/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/carlos_carlos006.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlos_carlos006/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlos_carlos006",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 4032,
+            "height": 3024
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/carlos_carlos006.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/carlos_carlos007.json",
+      "label": "Page 7",
+      "width": 4032,
+      "height": 3024,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlos_carlos007/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/carlos_carlos007.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlos_carlos007/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlos_carlos007",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 4032,
+            "height": 3024
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/carlos_carlos007.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/carlos_carlos008.json",
+      "label": "Page 8",
+      "width": 4032,
+      "height": 3024,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlos_carlos008/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/carlos_carlos008.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlos_carlos008/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlos_carlos008",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 4032,
+            "height": 3024
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/carlos_carlos008.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/carlos_carlos009.json",
+      "label": "Page 9",
+      "width": 4032,
+      "height": 3024,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlos_carlos009/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/carlos_carlos009.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlos_carlos009/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlos_carlos009",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 4032,
+            "height": 3024
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/carlos_carlos009.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/carlos_carlos010.json",
+      "label": "Page 10",
+      "width": 4032,
+      "height": 3024,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlos_carlos010/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/carlos_carlos010.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlos_carlos010/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlos_carlos010",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 4032,
+            "height": 3024
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/carlos_carlos010.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/carlos_carlos011.json",
+      "label": "Page 11",
+      "width": 4032,
+      "height": 3024,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlos_carlos011/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/carlos_carlos011.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlos_carlos011/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlos_carlos011",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 4032,
+            "height": 3024
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/carlos_carlos011.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/carlos_carlos012.json",
+      "label": "Page 12",
+      "width": 4032,
+      "height": 3024,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlos_carlos012/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/carlos_carlos012.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlos_carlos012/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/carlos_carlos012",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 4032,
+            "height": 3024
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/carlos_carlos012.json"
+        }
+      ]
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

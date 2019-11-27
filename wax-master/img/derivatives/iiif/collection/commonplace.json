@@ -1,0 +1,86 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/commonplace.json",
+  "@type": "sc:Collection",
+  "label": "commonplace",
+  "manifests": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/abi/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "abi"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/banner/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "banner"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/callie001/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "callie001"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/carlos/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "carlos"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/danielle001/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "danielle001"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/elise/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "elise"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/emery001/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "emery001"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/jelena001/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "jelena001"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/jenna001/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "jenna001"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/karen/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "karen"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/katie001/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "katie001"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/megan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "megan"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/nadine/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "nadine"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/naomi/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "naomi"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/natasha/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "natasha"
+    }
+  ]
+}
