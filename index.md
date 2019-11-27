@@ -18,4 +18,4 @@ I have blocked out their full names from the image archive and have only credite
 
 ### Browse the Collection
 
-{% include collection_gallery.html facet_by='object_type' collection='commonplace' %}
+{% include collection_gallery.html collection='commonplace' %}
