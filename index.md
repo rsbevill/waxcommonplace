@@ -20,4 +20,4 @@ __Wax__ is a [minimal computing](http://go-dh.github.io/mincomp/) project for pr
 
 ### Browse the Collection
 
-{% include collection_gallery.html collection='commonplace' %}
+{% include collection_gallery.html facet_by="_date" collection='commonplace' %}
