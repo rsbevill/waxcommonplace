@@ -14,10 +14,10 @@ This collection contains work from my students in LIT 2000 at USF from Fall 2018
 
 I have blocked out their full names from the image archive and have only credited them by their first name in an effort to continue protecting their anonymity as this library is published to the web. 
 
-## About Wax
+### About Wax
 
 __Wax__ is a [minimal computing](http://go-dh.github.io/mincomp/) project for producing digital exhibitions focused on longevity, low costs, and flexibility. Our underlying technology is made to learn and to teach, and can produce beautifully rendered, high-quality image collections and scholarly exhibits. To start using Wax, please see our [documentation](https://minicomp.github.io/wiki/#/wax/) for installation instructions and more.
 
 ### Browse the Collection
 
-{% include collection_gallery.html facet_by="_date" collection='commonplace' %}
+{% include collection_gallery.html facet_by="creator" collection='commonplace' %}
