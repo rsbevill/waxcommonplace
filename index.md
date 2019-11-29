@@ -22,6 +22,6 @@ __Wax__ is a [minimal computing](http://go-dh.github.io/mincomp/) project for pr
 
 | | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="Abi's Journal" src="img/derivatives/simple/abi_abi004/thumbnail.jpg">  Abi |<img width="1604" alt="Callie's Tumblr" src="/img/derivatives/iiif/images/callie001/full/250,/0/default.jpg"> Callie |<img width="1604" alt="Carlos's Journal" src="/img/derivatives/iiif/images/carlos_carlos001/full/250,/0/default.jpg"> Carlos |<img width="1604" alt="Danielle's Tumblr" src="/img/derivatives/iiif/images/danielle001/full/250,/0/default.jpg">  Danielle | 
+|<img width="150" alt="Abi's Journal" src="img/derivatives/simple/abi_abi004/thumbnail.jpg">  Abi |<img width="150" alt="Callie's Tumblr" src="/img/derivatives/iiif/images/callie001/full/250,/0/default.jpg"> Callie |<img width="150" alt="Carlos's Journal" src="/img/derivatives/iiif/images/carlos_carlos001/full/250,/0/default.jpg"> Carlos |<img width="150" alt="Danielle's Tumblr" src="/img/derivatives/iiif/images/danielle001/full/250,/0/default.jpg">  Danielle | 
 
 {% include collection_gallery.html facet_by="creator" collection='commonplace' %}
