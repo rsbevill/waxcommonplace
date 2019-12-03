@@ -22,7 +22,7 @@ title:            'Commonplace Book Sample Collection'
 description:      'A digital library of student samples for my LIT 2000 Commonplace Book Assignment'
 url:              'https://rsbevill.github.io'
 baseurl:          '/waxcommonplace'
-copyright:        'Example copyright org, 2019'
+copyright:        'Scott Bevill, 2019'
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
