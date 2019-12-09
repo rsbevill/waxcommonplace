@@ -2,7 +2,7 @@
 pid: elise
 creator: Elise
 location: USF
-label: '"It isn''t fair it isn''t right!" Mrs. Hutchinson Scremed, and then THEY WERE
+label: '...and then THEY WERE
   UPON HER'
 _date: Fall 2018
 object_type: Journal, handmade
